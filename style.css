@@ -1,0 +1,76 @@
+
+body {
+  margin-left: 32%;
+  width: 36%;
+  border: 2px solid #d7d7d7;
+  box-sizing: border-box;
+}
+
+h2 {
+  padding-left: 10px;
+  text-transform: uppercase;
+  display: table-cell;
+  font-size: 16px;
+  font-family: acumin-pro-semi-condensed, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+#global {
+  padding-left: 14px;
+  color: #d7d7d7;
+  line-height: 50px;
+}
+
+header {
+
+  border: 2px solid #e1128d;
+  margin: 0% 1% 1% 1%;
+  box-sizing: border-box;
+  height: 100px;
+}
+
+#topo {
+  color: #e1128d;
+  line-height: 100px;
+}
+
+main {
+  border: 2px solid #9ad5c4;
+  margin: 0% 1% 1% 1%;
+  width: 59%;
+  float: left;
+  box-sizing: border-box;
+  height: 300px;
+}
+
+#conteudo {
+  color: #9ad5c4;
+  line-height: 300px;
+}
+
+nav {
+  border: 2px solid #8ec9e7;
+  margin: 0% 1% 0% 0%;
+  width: 38%;
+  display: inline-block;
+  box-sizing: border-box;
+  height: 300px;
+}
+
+#menu {
+  color: #8ec9e7;
+  line-height: 300px;
+}
+
+footer {
+  border: 2px solid #f47c20;
+  margin: 0% 1% 1% 1%;
+  box-sizing: border-box;
+  height: 100px;
+}
+
+#rodape {
+  color: #f47c20;
+  line-height: 100px;
+}
